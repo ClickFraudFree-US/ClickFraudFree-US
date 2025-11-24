@@ -54,6 +54,13 @@ Receive notifications whenever fraudulent activity spikes or traffic quality dro
 
 ---
 
+## 🖼 Screenshots
+
+_No screenshots available yet._  
+*Consider adding screenshots of analytics dashboards, fraud reports, or platform UI for better visibility.*
+
+---
+
 ## 📘 About
 
 ClickFraudFree helps advertisers defend their PPC campaigns from fraudulent clicks, bots, and malicious activity. By providing real-time protection, detailed analytics, and automated blocking, it ensures higher-quality traffic, reduces wasted ad spend, and strengthens the performance and security of online advertising campaigns.
@@ -110,9 +117,4 @@ The **SIGN IN** page gives registered users secure access to ClickFraudFree’s 
 
 ---
 
-## 🖼 Screenshots
 
-_No screenshots available yet._  
-*Consider adding screenshots of analytics dashboards, fraud reports, or platform UI for better visibility.*
-
----
