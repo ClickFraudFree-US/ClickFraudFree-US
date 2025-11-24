@@ -71,7 +71,7 @@ The **HOME** page introduces ClickFraudFree, highlighting its ability to protect
 
 ### PRODUCTS  
 The **PRODUCTS** page showcases ClickFraudFree’s diverse tools and features, such as IP blocking, bot filtering, negative keywords, geo-targeting, and fraud analytics. Users can explore how each product protects campaigns and enhances PPC efficiency.  
-👉 https://clickfraudfree.com/products
+👉 https://clickfraudfree.com/en/our-products-features
 
 ---
 
@@ -89,7 +89,7 @@ The **PRICING** page provides a clear overview of subscription plans and feature
 
 ### RESOURCES  
 The **RESOURCES** page provides expert advice, guides, and tutorials on preventing click fraud. Users can access informative articles, best practices, and optimization tips to maximize campaign performance and security.  
-👉 https://clickfraudfree.com/resources
+👉 https://clickfraudfree.com/en/news
 
 ---
 
