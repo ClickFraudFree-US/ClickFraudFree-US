@@ -105,10 +105,3 @@ The **CONTACT US** page provides a direct channel to reach the ClickFraudFree te
 
 ---
 
-### SIGN IN  
-The **SIGN IN** page gives registered users secure access to ClickFraudFree’s dashboard. Users can manage campaigns, review fraud analytics, adjust security settings, and monitor blocked traffic.  
-👉 https://clickfraudfree.com/sign-in
-
----
-
-
