@@ -50,8 +50,11 @@ ClickFraudFree allows flexible management of fraud prevention. Users can rely en
 
 ## 🖼 Screenshots
 
-_No screenshots available yet._  
-*Consider adding screenshots of analytics dashboards, fraud reports, or platform UI for better visibility.*
+### 🏠 Home Page
+![Home Page](https://res.cloudinary.com/dcemnnmvq/image/upload/v1763989375/cff_home_page_cuzwsn.png)
+
+### 🏠 Dashboard
+![Dashboard](https://res.cloudinary.com/dcemnnmvq/image/upload/v1763989373/Dashboard_cff_by8qhw.png)
 
 ---
 
