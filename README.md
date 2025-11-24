@@ -13,19 +13,13 @@ ClickFraudFree monitors every click to identify suspicious behavior instantly. T
 Fraudulent sources are blocked automatically, saving you from manual intervention. Each detected threat is added to your exclusion list in Google Ads, preventing repeated invalid clicks.
 
 ### 🤖 Advanced Bot Filtering  
-Machine learning models analyze patterns to detect and eliminate bot-generated traffic. ClickFraudFree ensures only legitimate users interact with your ads, preserving budget and improving ROI.
+It Analyze patterns to detect and eliminate bot-generated traffic. ClickFraudFree ensures only legitimate users interact with your ads, preserving budget and improving ROI.
 
 ### 📊 Detailed Fraud Analytics  
 Gain insights into attack patterns, traffic quality, and fraud attempts with intuitive analytics dashboards. These visual reports help advertisers understand sources of invalid activity and adjust campaigns effectively.
 
 ### 🧰 Manual & Automated Controls  
 ClickFraudFree allows flexible management of fraud prevention. Users can rely entirely on automation or manually review flagged activity for more precise control over ad traffic.
-
-### 🌐 Multi-Platform Protection  
-Supports all major PPC platforms, including Google Ads and Bing Ads. Protect your campaigns across different channels without switching tools.
-
-### 🔔 Smart Alerts  
-Receive notifications whenever fraudulent activity spikes or traffic quality drops, allowing marketers to take immediate corrective action.
 
 ---
 
